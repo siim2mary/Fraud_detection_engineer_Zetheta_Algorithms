@@ -1,3 +1,9 @@
+#Part 3	
+# ML Pattern Recognition	
+# ml_model.py (Uses Isolation Forest to detect multi-dimensional fraud patterns).
+#=======================================================================================
+
+
 import pandas as pd
 from sklearn.ensemble import IsolationForest
 
