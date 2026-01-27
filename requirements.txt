@@ -2,3 +2,8 @@ pandas
 scikit-learn
 streamlit
 scipy
+numpy
+plotly
+datetime
+altair<5.0.0
+imghdr
